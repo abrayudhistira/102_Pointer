@@ -2,7 +2,7 @@
 using namespace std;
 
 class mahasiswa {									//class mahasiswa
-	public:
+	public:											// class modifier public
 	int nim;
 	void showNim() {
 		cout << "No Induk = " << nim << endl;
