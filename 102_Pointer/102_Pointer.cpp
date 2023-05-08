@@ -18,4 +18,5 @@ int main() {
 	mhs.showNim();
 
 	mahasiswa* pMhs = &mhs;						//pointer Deference pMhs
+	pMhs->nim = 3;								//Arrow Operator
 }
